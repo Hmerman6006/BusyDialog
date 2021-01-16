@@ -54,9 +54,6 @@ class BusyDialog(ModalView):
         app = App.get_running_app()
         app.root.busy_dialog.open()
 
-    def run_busy(self, busy):
-        Clock.schedule_once(self.animate_busy(busy),9)
-
     def animate_busy(self, busy, *args):
         #animate text busy. -> busy.. -> busy...
         sec = 1.0
