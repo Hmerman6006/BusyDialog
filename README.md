@@ -1,4 +1,4 @@
-###Busy Dialog with 'Busy.', 'Busy..', 'Busy...' animation
+### Busy Dialog with 'Busy.', 'Busy..', 'Busy...' animation
 With many thanks to alias Tu®tle on discord who did all the animation.
 
 > This dialog pops up and on progress checks if a variable check 
